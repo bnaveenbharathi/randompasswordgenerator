@@ -1,0 +1,62 @@
+h1{
+    margin-top: 30px;
+}
+.generator{
+    
+    margin-top: 80px;
+}
+.passwordgen{
+    display: block;
+    margin-top: -30px;
+    box-shadow:0px 0px 5px rgb(80, 80, 80),
+    0px 0px 25px rgb(80, 80, 80);
+    border: none;
+    box-shadow:0px 0px 5px rgb(80, 80, 80),
+    0px 0px 5px rgb(80, 80, 80),
+    0px 0px 15px rgb(80, 80, 80);
+    border: none;
+    border-radius: 8px; 
+      
+}
+.generatorbtn{
+   margin-top: 50px;
+   border-radius: 7px;
+   background:none;
+   font-weight: bolder;
+   
+}
+#icon{
+   margin-top: 20px;
+   font-size: 40px;
+}
+.lengthcheck{
+    margin-top: 20px;
+}
+.length{
+    border-radius: 7px;
+     background:none;
+     font-weight: bolder;
+}
+.total{
+    background-color: aqua;
+    border: none;
+    height: fit-content;
+    width:700px;
+    margin-top: 70px;
+    border-radius: 15px;
+   padding:20px ;
+   box-shadow:0px 0px 5px rgb(148, 26, 26),
+   0px 0px 25px rgb(80, 80, 80);
+   border: none;
+   box-shadow:0px 0px 5px rgb(80, 80, 80),
+   0px 0px 5px rgb(80, 80, 80),
+   0px 0px 15px rgb(80, 80, 80);
+}
+@media (max-width:425px) {
+ 
+    .total{
+        width:400px;
+       
+    }
+    
+}
