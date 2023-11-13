@@ -11,4 +11,4 @@ This is a simple web-based random password generator that helps users create str
 
 # Demo
 You can try out the random password generator here.
-https://naveenbharathi.neocities.org/passgen/
+https://naveenbharathi.neocities.org/passgenerate/
