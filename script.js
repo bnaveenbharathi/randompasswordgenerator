@@ -10,3 +10,11 @@ function genpass(length){
 let genpassword=(pass)=>{
     document.output.passwordgen.value = genpass(pass)
 }
+// Copy text function
+function myFunction() {
+  var password = document.getElementById("generatingpass");
+  password.select(); 
+  password.setSelectionRange(0,0);
+  navigator.clipboard.writeText(password.value);
+  alert("Copied the text:" + password.value);
+}
