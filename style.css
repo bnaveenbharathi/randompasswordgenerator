@@ -52,6 +52,11 @@ h1{
    0px 0px 5px rgb(80, 80, 80),
    0px 0px 15px rgb(80, 80, 80);
 }
+.copytext{
+    background:none;
+    font-weight: bolder;
+    border-radius: 7px;
+}
 @media (max-width:425px) {
  
     .total{
